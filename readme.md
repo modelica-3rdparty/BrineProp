@@ -1,3 +1,7 @@
+Notice
+======
+The project is discontinued after the original developer Henning Franke died in 2022: https://www.gfz.de/en/press/news/details/nachruf-auf-henning-francke
+
 BrineProp
 =========
 BrineProp is a modelica package that calculates the thermodynamic properties of a specified brine, i.e., an aqueous solution of salts (NaCl,KCl,CaCl2) and gases (CO2,N2,CH4,H2), with a potential gas phase, including degassing/evaporation and solution/condensation.
